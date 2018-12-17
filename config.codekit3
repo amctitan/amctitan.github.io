@@ -1790,6 +1790,103 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/img/favicon/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2485,
+		"oA": 0,
+		"oAP": "/img/favicon/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 6160,
+		"oA": 0,
+		"oAP": "/img/favicon/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1763,
+		"oA": 0,
+		"oAP": "/img/favicon/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/favicon/browserconfig.xml",
+		"oF": 0
+		},
+	"/img/favicon/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 510,
+		"oA": 0,
+		"oAP": "/img/favicon/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 704,
+		"oA": 0,
+		"oAP": "/img/favicon/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/favicon/favicon.ico",
+		"oF": 0
+		},
+	"/img/favicon/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2037,
+		"oA": 0,
+		"oAP": "/img/favicon/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/favicon/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/favicon/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/favicon/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/favicon/site.webmanifest",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1871,7 +1968,7 @@
 	"creationDate": 566747074.03649604,
 	"displayValue": "AMC",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-trap",
+	"iconImageName": "/img/favicon/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
