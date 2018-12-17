@@ -30,6 +30,13 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/.nojekyll": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/.nojekyll",
+		"oF": 0
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -1829,6 +1836,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/readme.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/readme.html",
+		"oF": 0
 		},
 	"/readme.md": {
 		"cB": 0,
