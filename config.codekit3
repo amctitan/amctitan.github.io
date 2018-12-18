@@ -1750,6 +1750,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/css/lity.min.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/lity.min.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1789,6 +1802,13 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/img/bg.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/bg.mp4",
+		"oF": 0
 		},
 	"/img/favicon/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -1894,12 +1914,42 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/js/lity.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/js/lity.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/main-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/main-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/js/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/plugins-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/plugins-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1956,6 +2006,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"/js/plugins.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/js/lity.min.js",
+			"position": 0,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 566747074.03649604,
