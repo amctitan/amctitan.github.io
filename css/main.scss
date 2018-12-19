@@ -170,6 +170,36 @@ body {
     }
 }
 
+#mc_embed_signup {
+    .mc-field-group {
+        width: 100%;
+    }
+
+    div#mce-responses {
+        text-align: center;
+        margin: 0 auto;
+        float: none;
+
+        .response {
+            border-radius: 0.5em;
+            padding: 1em 0.5em 1em 0;
+            float: none;
+            width: 100%;
+            margin-bottom: 1em;
+            font-size: 0.9em;
+        }
+    }
+
+    #mce-error-response {
+        background: #DA2C38;
+    }
+
+    #mce-success-response {
+        background: #5BBA6F;
+        color: $white;
+    }
+}
+
 #video-background {
     @media screen and (max-width: 767px) {
         display: none;
