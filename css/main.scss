@@ -55,11 +55,12 @@ textarea {
 }
 
 a {
-  color: inherit;
-  text-decoration: underline;
-  &:hover {
-    color: $primary;
-  }
+    color: inherit;
+    text-decoration: underline;
+
+    &:hover {
+        color: $primary;
+    }
 }
 /* ==========================================================================
    Author's custom styles
@@ -69,6 +70,13 @@ html {
     min-height: 100%;
     background: $black;
     color: $white;
+}
+
+body {
+    background: url("../img/poster.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 .center-vertical {
@@ -102,7 +110,7 @@ html {
     }
 
     input[type=text] {
-      margin-bottom: 1em;
+        margin-bottom: 1em;
     }
 
     input[type=checkbox] {
@@ -137,7 +145,7 @@ html {
         text-transform: uppercase;
         font-weight: bold;
         display: block;
-        margin: 0 auto
+        margin: 0 auto;
     }
 }
 
@@ -162,6 +170,12 @@ html {
     }
 }
 
+#video-background {
+    @media screen and (max-width: 767px) {
+        display: none;
+    }
+}
+
 #video-background,
 .bg-cover {
     position: fixed;
@@ -181,14 +195,14 @@ html {
 }
 
 hr.small {
-  width: 30px;
-  margin: 1.5em auto 1.5em;
+    width: 30px;
+    margin: 1.5em auto;
 }
 
 #privacy {
     overflow: auto;
     color: $black;
-    padding:1.5em;
+    padding: 1.5em;
     max-width: 600px;
     border-radius: 6px;
     line-height: 1.6;
