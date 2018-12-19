@@ -101,6 +101,10 @@ html {
         text-align: center;
     }
 
+    input[type=text] {
+      margin-bottom: 1em;
+    }
+
     input[type=checkbox] {
         display: inline;
         width: auto;
@@ -146,7 +150,7 @@ html {
 }
 
 #mergeRow-gdpr {
-    margin-top: 1em;
+    // margin-top: 1em;
     font-size: 0.8em;
 
     fieldset {

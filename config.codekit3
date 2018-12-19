@@ -1914,6 +1914,17 @@
 		"oAP": "/img/favicon/site.webmanifest",
 		"oF": 0
 		},
+	"/img/poster.jpg": {
+		"ft": 16384,
+		"iS": 239692,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
